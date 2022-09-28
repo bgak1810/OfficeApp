@@ -2,11 +2,13 @@
   {
     "id": "24323",
     "name": "Mark Smith",
-    "action": "Edit | Delete"
+    "action": "Edit | Delete",
+    "link": "102.200.200.20"
   },
   {
     "id": "24564",
     "name": "Caitlin MacDonald",
-    "action": "Edit | Delete"
+    "action": "Edit | Delete",
+    "link": "102.200.200.203"
   }
 ]
